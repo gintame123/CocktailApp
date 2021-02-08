@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CocktailApp</string>
+    <string name="categorie">lol</string>
+    <string name="search_our_cocktail">Search our Cocktail</string>
+</resources>
